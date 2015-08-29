@@ -1,6 +1,5 @@
 +++
 title = "File Formats"
-aliases = [ "/display/KICAD/File+Formats" ]
 [menu.main]
     parent = "Help"
     name   = "File Formats"
